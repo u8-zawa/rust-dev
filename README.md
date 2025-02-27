@@ -1,6 +1,6 @@
 # rust-dev
 
-DockerfileでRustの簡易開発環境を構築
+DockerでRustの簡易的な開発環境を構築
 
 ## イメージのビルド
 
